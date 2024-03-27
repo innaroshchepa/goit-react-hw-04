@@ -1,0 +1,14 @@
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    
+}
+
+.modalImg {
+    width: 100%;
+    height: auto;
+    border: none;
+    
+}

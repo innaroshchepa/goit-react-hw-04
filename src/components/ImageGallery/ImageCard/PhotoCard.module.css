@@ -1,0 +1,17 @@
+/* .imgCard { */
+    /* width: 280px;
+    height: 216px; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    /* background-color: rgba(196, 196, 193, 0.658); */
+/* } */
+
+.imgCard {
+    width: 320px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
